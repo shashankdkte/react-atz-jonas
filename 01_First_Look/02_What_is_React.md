@@ -13,13 +13,13 @@ React is abstraction away from DOM.We never touch the DOM
 A Syntax that combines HTML CSS Javascript as well as referencing  other components
 
 ### State Driven
-![image info](../images/02_React.png)
+![image info](../images/02_react.png)
 
 ## Javascript Library
 React is only the view layer. We need to pick up multiple external libraries to build a complete application
 
 ## Extremely popular
-![image info](../images/03_React.png)
+![image info](../images/03_react.png)
 
 ## Summary
 Rendering components on webpage based on their current state
