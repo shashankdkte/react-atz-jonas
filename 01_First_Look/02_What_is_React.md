@@ -1,5 +1,5 @@
 ## What is React
-![image info](../images/01_react.png)
+![image info](../images/01_React.png)
 
 ### Based on Components
 Components are the building blocks of user interfaces in React
@@ -13,7 +13,7 @@ React is abstraction away from DOM.We never touch the DOM
 A Syntax that combines HTML CSS Javascript as well as referencing  other components
 
 ### State Driven
-![image info](../images/02_react.png)
+![image info](../images/02_React.png)
 
 ## Javascript Library
 React is only the view layer. We need to pick up multiple external libraries to build a complete application
