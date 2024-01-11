@@ -34,3 +34,11 @@ Describe what UI should look like using JSX, based on current data
 React is an abstraction away from the DOM:we never touch the DOM
 Instead , we think of the UI as a reflection of current data
 ![image info](../images/06_declarative.png)
+
+## Seperation of Concerns
+Logic and UI are tightly coupled
+
+![image info](../images/07_Seperation.png)
+
+## Seperation of Component 
+![image info](../images/08_Seperation_Exist.png)
