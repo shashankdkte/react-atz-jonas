@@ -42,3 +42,21 @@ Logic and UI are tightly coupled
 
 ## Seperation of Component 
 ![image info](../images/08_Seperation_Exist.png)
+
+---
+
+### Props are readonly 
+Mutating props would affect parent 
+creating side effects
+
+
+![img info](../images/01_Props.png)
+
+
+### One Way Data Flow
+makes application more predictable and easier to  understand
+makes application easier to debug , as we have more control over the data
+Is is performant
+
+
+![img info](../images/02_DataFlow.png)
